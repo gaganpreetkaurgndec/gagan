@@ -1,2 +1,3 @@
 # gagan
-this is my first git repository
+this is my first git repository.
+Author - gaganpreet kaur
